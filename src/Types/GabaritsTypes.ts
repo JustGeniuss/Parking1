@@ -1,4 +1,4 @@
-export interface Gabarits {
+export interface GabaritsInterface {
     /** длина */
     length: number;
     /** ширина */

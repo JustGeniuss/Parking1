@@ -1,5 +1,5 @@
 import type { PeopleInterface } from "./PeopleTypes";
-import type { Gabarits } from "./gabarits";
+import type { Gabarits } from "./GabaritsTypes";
 
 
 export interface CarInterface extends Gabarits {
